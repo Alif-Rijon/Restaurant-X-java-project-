@@ -1,0 +1,6 @@
+iftee,iftee@gmail.com,123
+abc,abc@gmail.com,000
+abcc,abcc@gmail.com,000
+bahenchod,bah@gmail.com,12j
+admin,ads@gmail.com,admin123
+rijon,rijon@gmail.com,123
